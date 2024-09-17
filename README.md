@@ -1,6 +1,7 @@
-# Opencore Acer Aspire E5-473
+# OpenCore Acer Aspire E5-473
 
 What's working : maybe basic stuff
+
 What's doesn't working :
 - sleep feature
 - wifi & bluetooth
